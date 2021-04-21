@@ -1,0 +1,24 @@
+#showpara1 {
+    text-align: left;
+    font-weight: bold;
+    margin-bottom: 25%;
+    margin-top: -25%;
+}
+
+#ONE {
+    width: 49%;
+}
+
+#TWO {
+   width: 150%;
+   margin-bottom: 262px;
+   margin-top: -262px;
+}
+
+
+#showpara2 {
+    margin-bottom: 23%;
+    margin-top: -23%;
+    text-align: left;
+    font-weight: bold;
+}
